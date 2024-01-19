@@ -1,6 +1,6 @@
 # CME-466-Project--Advanced-Digital-Systems-Design
 
-● Executed the deployment of an IoT system employing sensors and Raspberry Pi to streamline data collection and analysis.
+● Executed the deployment of an IoT system employing sensors and Raspberry Pi to streamline data collection and analysis.\
 ● Successfully ensured dependable data transmission through Linksys and Cisco routers, optimizing IP routing using Cisco 
 Packet Tracer.
 ● Implemented stringent cybersecurity measures, utilizing Socket Programming to safeguard data.
